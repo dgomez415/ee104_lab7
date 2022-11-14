@@ -11,7 +11,7 @@ Prior to running the following programs, make sure the following packages are in
 
 # Assembling Convolutional Neural Network model
 cnn.ipynb assembles a convolutional neural network (CNN) model that can be used to recognize images of various objects (airplanes, deer, etc.). 
-Original code provided to us by our professor (Christopher Pham) with an inital accuracy rating of ~70%. Upgraded model implementing Dropout Regularization and
+Original code provided to us by Tensorflow with an inital accuracy rating of ~70%. Upgraded model implementing Dropout Regularization and
 Batch Normalization to improve accuracy rating ~88%. Upgraded model uses code by Jason Brownlee. Link to code: https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/ 
 
 # Testing Convolutional Neural Network model
