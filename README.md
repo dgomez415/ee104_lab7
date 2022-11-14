@@ -4,7 +4,7 @@ Authors: David Gomez, Osman Saeday
 Co-Authors: Christopher Pham
 
 # Video demonstration
-Link to demonstration video:
+Link to demonstration video: https://youtu.be/ZKNuK-Nbx5w
 
 # Prerequisites
 Prior to running the following programs, make sure the following packages are installed in your current version of Python: numpy, tensorflow, keras, matplotlib, jupyter
