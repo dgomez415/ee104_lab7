@@ -1,5 +1,6 @@
 # Authors
 Authors: David Gomez, Osman Saeday
+
 Co-Authors: Christopher Pham, Jason Brownlee
 
 # Video demonstration
